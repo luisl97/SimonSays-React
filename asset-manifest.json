@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/luisl97/simon-says-react/static/css/main.4a28e6de.chunk.css",
-    "main.js": "/luisl97/simon-says-react/static/js/main.252185e7.chunk.js",
-    "main.js.map": "/luisl97/simon-says-react/static/js/main.252185e7.chunk.js.map",
-    "runtime~main.js": "/luisl97/simon-says-react/static/js/runtime~main.7399f4cf.js",
-    "runtime~main.js.map": "/luisl97/simon-says-react/static/js/runtime~main.7399f4cf.js.map",
-    "static/js/2.a6512ceb.chunk.js": "/luisl97/simon-says-react/static/js/2.a6512ceb.chunk.js",
-    "static/js/2.a6512ceb.chunk.js.map": "/luisl97/simon-says-react/static/js/2.a6512ceb.chunk.js.map",
-    "index.html": "/luisl97/simon-says-react/index.html",
-    "precache-manifest.2dd226107e92fc068b1c0a64b685841a.js": "/luisl97/simon-says-react/precache-manifest.2dd226107e92fc068b1c0a64b685841a.js",
-    "service-worker.js": "/luisl97/simon-says-react/service-worker.js",
-    "static/css/main.4a28e6de.chunk.css.map": "/luisl97/simon-says-react/static/css/main.4a28e6de.chunk.css.map"
+    "main.css": "/simonsaysreact/static/css/main.4a28e6de.chunk.css",
+    "main.js": "/simonsaysreact/static/js/main.252185e7.chunk.js",
+    "main.js.map": "/simonsaysreact/static/js/main.252185e7.chunk.js.map",
+    "runtime~main.js": "/simonsaysreact/static/js/runtime~main.5a35818f.js",
+    "runtime~main.js.map": "/simonsaysreact/static/js/runtime~main.5a35818f.js.map",
+    "static/js/2.a6512ceb.chunk.js": "/simonsaysreact/static/js/2.a6512ceb.chunk.js",
+    "static/js/2.a6512ceb.chunk.js.map": "/simonsaysreact/static/js/2.a6512ceb.chunk.js.map",
+    "index.html": "/simonsaysreact/index.html",
+    "precache-manifest.4b639eb145b7ae55435323edf9c0eb8a.js": "/simonsaysreact/precache-manifest.4b639eb145b7ae55435323edf9c0eb8a.js",
+    "service-worker.js": "/simonsaysreact/service-worker.js",
+    "static/css/main.4a28e6de.chunk.css.map": "/simonsaysreact/static/css/main.4a28e6de.chunk.css.map"
   }
 }
